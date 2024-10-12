@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bZvDice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5285c55171261ebe21f0032acd89172a0bf997c9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+029984b86b37af1ff95edb61e0195a66d1ff7d94")]
 [assembly: System.Reflection.AssemblyProductAttribute("bZvDice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bZvDice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
